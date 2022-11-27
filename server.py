@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
-# This is a quick script for creating a quick HTTP server using python
+# This is a  script for creating a quick HTTP server using python
+# This script is just to get a working knowledge on how socket is used to access
+# network utilities
+
+# Python3 has a module preinstalled that does the same
+# using "python3 -m http.server <port>"
 
 import socket
 
